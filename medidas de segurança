@@ -1,0 +1,25 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 26/03/2025 | Empresa: Abstergo Industries | Responsável: Luiz de França Sorrentino Neto
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Luiz de França Sorrentino Neto. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: - Configuração das roles usando o AWS IAM.
+
+Medida 2: - Não usar uma root user.
+
+Medida 3: - Utilizar o AWS GuardDuty ou Shield para aumentar a segurança.
+
+Conclusão
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado Configurar as roles usando o AWS IAM oferece controle granular de acesso, garantindo que usuários e serviços tenham apenas 
+as permissões necessárias, aplicando o princípio do menor privilégio e aumentando a segurança. Evitar o uso da root user minimiza riscos de comprometimento, facilita auditorias e reduz erros acidentais, 
+mantendo o controle mais seguro. Utilizar o AWS GuardDuty e o Shield aumenta a proteção ao detectar ameaças e ataques DDoS, automatizando respostas a incidentes e garantindo uma postura de segurança mais sólida, 
+o que resulta em uma infraestrutura mais segura e resiliente na AWS.
+Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Assinatura do Responsável pelo Projeto:
+
+Luiz de França Sorrentino Neto
